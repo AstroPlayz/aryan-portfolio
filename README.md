@@ -32,7 +32,7 @@ Since this is a static website, getting it running locally is incredibly simple:
 
 ## 🌐 Live Demo
 
-You can view the live portfolio here: **[Add link to live site here if hosted via GitHub Pages/Vercel]**
+You can view the live portfolio here: **https://astroplayz.github.io/aryan-portfolio/**
 
 ## 🤝 Let's Connect
 
